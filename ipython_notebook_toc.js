@@ -62,6 +62,3 @@ function createTOC(){
 
 // Executes the createToc function
 setTimeout(function(){createTOC();},100);
-
-// Rebuild to TOC every minute
-setInterval(function(){createTOC();},60000);
