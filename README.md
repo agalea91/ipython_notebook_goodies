@@ -20,5 +20,5 @@ and provides anchors (added where needed).
 2. Add a *code* cell anywhere in the notebook with the following:
 ```
 %%javascript
-$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
+$.getScript('https://rawgit.com/agalea91/ipython_notebook_goodies/gh-pages/ipython_notebook_toc.js')
 ```
